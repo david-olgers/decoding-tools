@@ -8,6 +8,8 @@ import java.util.TreeSet;
  * Written by David Olgers 2016
  * 
  * It works well, but I should probably change it to look a little more pretty.
+ * 
+ * Right now I'm working to make it sort letter frequencies by number of occurences as well as alphabetically
  */
 public class TextAnalyzer {
 
